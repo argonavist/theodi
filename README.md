@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [argonavist/theodi](https://github.com/argonavist/theodi) - gh profile readme (1 week ago)
+- [argonavist/theodi](https://github.com/argonavist/theodi) - gh profile readme (2 weeks ago)
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (6 months ago)
 
 #### 🌱 My latest projects
@@ -12,8 +12,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[chore][receiver/chronyreceiver] use errors.Join instead of go.uber.org/multierr](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/32979) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (6 months ago)
-- [[exporter/syslogexporter] use errors.Join instead of go.uber.org/multierr](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/32925) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (6 months ago)
+- [[chore][receiver/chronyreceiver] use errors.Join instead of go.uber.org/multierr](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/32979) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (7 months ago)
+- [[exporter/syslogexporter] use errors.Join instead of go.uber.org/multierr](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/32925) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (7 months ago)
 
 #### 💬 Feedback
 
