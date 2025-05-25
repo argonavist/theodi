@@ -2,8 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [argonavist/theodi](https://github.com/argonavist/theodi) - gh profile readme (5 months ago)
-- [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector (1 year ago)
+- [argonavist/theodi](https://github.com/argonavist/theodi) - gh profile readme (6 months ago)
 
 #### 🌱 My latest projects
 
