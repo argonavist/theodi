@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [argonavist/theodi](https://github.com/argonavist/theodi) - gh profile readme (6 months ago)
+- [argonavist/theodi](https://github.com/argonavist/theodi) - gh profile readme (7 months ago)
 
 #### 🌱 My latest projects
 
