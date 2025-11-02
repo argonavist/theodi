@@ -11,8 +11,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [[chore][receiver/chronyreceiver] use errors.Join instead of go.uber.org/multierr](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/32979) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (1 year ago)
-- [[exporter/syslogexporter] use errors.Join instead of go.uber.org/multierr](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/32925) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (1 year ago)
+- [[chore][receiver/chronyreceiver] use errors.Join instead of go.uber.org/multierr](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/32979) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (2 years ago)
+- [[exporter/syslogexporter] use errors.Join instead of go.uber.org/multierr](https://github.com/open-telemetry/opentelemetry-collector-contrib/pull/32925) on [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) (2 years ago)
 
 #### 💬 Feedback
 
